@@ -1,0 +1,22 @@
+{
+  "name": "my_web_site",
+  "version": "1.0.0",
+  "description": "The Personal site of Abdul Hagi.",
+  "main": "app/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ballerabdude/my_web_site.git"
+  },
+  "author": "Abdul Hagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballerabdude/my_web_site/issues"
+  },
+  "homepage": "https://github.com/ballerabdude/my_web_site"
+}
